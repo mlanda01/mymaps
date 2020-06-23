@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name> MAYO21-JUNIO21 (por evento) .kml</name>
+<description><![CDATA[]]></description>
+
+<Placemark>
+<name>AA 9</name>
+<description><![CDATA[5 incidencias:
+ 5 SITUACION DE RIESGO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>00ffffff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-99.095147258065,26.4160097
+-99.059308790323,26.4160097
+-99.059308790323,26.38937568871
+-99.095147258065,26.38937568871
+-99.095147258065,26.4160097
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AB 10</name>
+<description><![CDATA[2 incidencias:
+ 1 DETONACIONES
+1 ENFRENTAMIENTO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>960000ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-99.059308790323,26.38937568871
+-99.023470322581,26.38937568871
+-99.023470322581,26.362741677419
+-99.059308790323,26.362741677419
+-99.059308790323,26.38937568871
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AB 12</name>
+<description><![CDATA[1 incidencias:
+ 1 DETONACIONES]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600ffff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.987631854839,26.38937568871
+-98.951793387097,26.38937568871
+-98.951793387097,26.362741677419
+-98.987631854839,26.362741677419
+-98.987631854839,26.38937568871
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AE 16</name>
+<description><![CDATA[1 incidencias:
+ 1 ENFRENTAMIENTO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>960000ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.844277983871,26.309473654839
+-98.808439516129,26.309473654839
+-98.808439516129,26.282839643548
+-98.844277983871,26.282839643548
+-98.844277983871,26.309473654839
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AI 13</name>
+<description><![CDATA[3 incidencias:
+ 1 ENFRENTAMIENTO
+1 DETONACIONES
+1 SITUACION DE RIESGO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>960000ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.951793387097,26.202937609677
+-98.915954919355,26.202937609677
+-98.915954919355,26.176303598387
+-98.951793387097,26.176303598387
+-98.951793387097,26.202937609677
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AJ 13</name>
+<description><![CDATA[1 incidencias:
+ 1 DETONACIONES]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600ffff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.951793387097,26.176303598387
+-98.915954919355,26.176303598387
+-98.915954919355,26.149669587097
+-98.951793387097,26.149669587097
+-98.951793387097,26.176303598387
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AK 23</name>
+<description><![CDATA[2 incidencias:
+ 1 DETONACIONES
+1 BLOQUEO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600a5ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.593408709677,26.149669587097
+-98.557570241935,26.149669587097
+-98.557570241935,26.123035575806
+-98.593408709677,26.123035575806
+-98.593408709677,26.149669587097
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AL 31</name>
+<description><![CDATA[2 incidencias:
+ 1 PERSECUCION
+1 DETONACIONES]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600a5ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.306700967742,26.123035575806
+-98.2708625,26.123035575806
+-98.2708625,26.096401564516
+-98.306700967742,26.096401564516
+-98.306700967742,26.123035575806
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AM 30</name>
+<description><![CDATA[4 incidencias:
+ 2 DETONACIONES
+1 SITUACION DE RIESGO
+1 PONCHALLANTAS]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600ffff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.342539435484,26.096401564516
+-98.306700967742,26.096401564516
+-98.306700967742,26.069767553226
+-98.342539435484,26.069767553226
+-98.342539435484,26.096401564516
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AM 31</name>
+<description><![CDATA[1 incidencias:
+ 1 PERSONA SIN VIDA]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600ffff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.306700967742,26.096401564516
+-98.2708625,26.096401564516
+-98.2708625,26.069767553226
+-98.306700967742,26.069767553226
+-98.306700967742,26.096401564516
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AM 32</name>
+<description><![CDATA[1 incidencias:
+ 1 DETONACIONES]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600ffff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.2708625,26.096401564516
+-98.235024032258,26.096401564516
+-98.235024032258,26.069767553226
+-98.2708625,26.069767553226
+-98.2708625,26.096401564516
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AN 16</name>
+<description><![CDATA[1 incidencias:
+ 1 SITUACION DE RIESGO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>00ffffff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.844277983871,26.069767553226
+-98.808439516129,26.069767553226
+-98.808439516129,26.043133541935
+-98.844277983871,26.043133541935
+-98.844277983871,26.069767553226
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AN 27</name>
+<description><![CDATA[1 incidencias:
+ 1 DETONACIONES]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600ffff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.45005483871,26.069767553226
+-98.414216370968,26.069767553226
+-98.414216370968,26.043133541935
+-98.45005483871,26.043133541935
+-98.45005483871,26.069767553226
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AN 29</name>
+<description><![CDATA[2 incidencias:
+ 1 DETONACIONES
+1 PONCHALLANTAS]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600ffff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.378377903226,26.069767553226
+-98.342539435484,26.069767553226
+-98.342539435484,26.043133541935
+-98.378377903226,26.043133541935
+-98.378377903226,26.069767553226
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AN 30</name>
+<description><![CDATA[7 incidencias:
+ 4 DETONACIONES
+1 SITUACION DE RIESGO
+1 ASALTO
+1 PERSECUCION]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>960000ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.342539435484,26.069767553226
+-98.306700967742,26.069767553226
+-98.306700967742,26.043133541935
+-98.342539435484,26.043133541935
+-98.342539435484,26.069767553226
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AN 31</name>
+<description><![CDATA[1 incidencias:
+ 1 ASALTO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>960000ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.306700967742,26.069767553226
+-98.2708625,26.069767553226
+-98.2708625,26.043133541935
+-98.306700967742,26.043133541935
+-98.306700967742,26.069767553226
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AN 32</name>
+<description><![CDATA[4 incidencias:
+ 1 PONCHALLANTAS
+1 BLOQUEO
+1 DETONACIONES
+1 SITUACION DE RIESGO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600a5ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.2708625,26.069767553226
+-98.235024032258,26.069767553226
+-98.235024032258,26.043133541935
+-98.2708625,26.043133541935
+-98.2708625,26.069767553226
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AN 33</name>
+<description><![CDATA[14 incidencias:
+ 3 PONCHALLANTAS
+9 DETONACIONES
+1 ENFRENTAMIENTO
+1 BLOQUEO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>960000ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.235024032258,26.069767553226
+-98.199185564516,26.069767553226
+-98.199185564516,26.043133541935
+-98.235024032258,26.043133541935
+-98.235024032258,26.069767553226
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AO 28</name>
+<description><![CDATA[6 incidencias:
+ 3 DETONACIONES
+1 ENFRENTAMIENTO
+2 PONCHALLANTAS]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>960000ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.414216370968,26.043133541935
+-98.378377903226,26.043133541935
+-98.378377903226,26.016499530645
+-98.414216370968,26.016499530645
+-98.414216370968,26.043133541935
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AO 30</name>
+<description><![CDATA[1 incidencias:
+ 1 DETONACIONES]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600ffff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.342539435484,26.043133541935
+-98.306700967742,26.043133541935
+-98.306700967742,26.016499530645
+-98.342539435484,26.016499530645
+-98.342539435484,26.043133541935
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AO 31</name>
+<description><![CDATA[5 incidencias:
+ 3 DETONACIONES
+1 ENFRENTAMIENTO
+1 ASALTO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>960000ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.306700967742,26.043133541935
+-98.2708625,26.043133541935
+-98.2708625,26.016499530645
+-98.306700967742,26.016499530645
+-98.306700967742,26.043133541935
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AO 32</name>
+<description><![CDATA[3 incidencias:
+ 2 DETONACIONES
+1 SECUESTRO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>96000000</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.2708625,26.043133541935
+-98.235024032258,26.043133541935
+-98.235024032258,26.016499530645
+-98.2708625,26.016499530645
+-98.2708625,26.043133541935
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AO 33</name>
+<description><![CDATA[12 incidencias:
+ 7 DETONACIONES
+2 PERSECUCION
+1 BLOQUEO
+2 ENFRENTAMIENTO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>960000ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.235024032258,26.043133541935
+-98.199185564516,26.043133541935
+-98.199185564516,26.016499530645
+-98.235024032258,26.016499530645
+-98.235024032258,26.043133541935
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AO 34</name>
+<description><![CDATA[1 incidencias:
+ 1 DETONACIONES]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600ffff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.199185564516,26.043133541935
+-98.163347096774,26.043133541935
+-98.163347096774,26.016499530645
+-98.199185564516,26.016499530645
+-98.199185564516,26.043133541935
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AP 31</name>
+<description><![CDATA[2 incidencias:
+ 1 DETONACIONES
+1 SITUACION DE RIESGO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600ffff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.306700967742,26.016499530645
+-98.2708625,26.016499530645
+-98.2708625,25.989865519355
+-98.306700967742,25.989865519355
+-98.306700967742,26.016499530645
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AP 32</name>
+<description><![CDATA[10 incidencias:
+ 6 DETONACIONES
+1 PERSECUCION
+1 PONCHALLANTAS
+1 ENFRENTAMIENTO
+1 SITUACION DE RIESGO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>960000ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.2708625,26.016499530645
+-98.235024032258,26.016499530645
+-98.235024032258,25.989865519355
+-98.2708625,25.989865519355
+-98.2708625,26.016499530645
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AP 33</name>
+<description><![CDATA[6 incidencias:
+ 4 DETONACIONES
+2 ASALTO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>960000ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.235024032258,26.016499530645
+-98.199185564516,26.016499530645
+-98.199185564516,25.989865519355
+-98.235024032258,25.989865519355
+-98.235024032258,26.016499530645
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AP 35</name>
+<description><![CDATA[1 incidencias:
+ 1 PERSECUCION]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600a5ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.163347096774,26.016499530645
+-98.127508629032,26.016499530645
+-98.127508629032,25.989865519355
+-98.163347096774,25.989865519355
+-98.163347096774,26.016499530645
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AQ 34</name>
+<description><![CDATA[1 incidencias:
+ 1 DETONACIONES]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600ffff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-98.199185564516,25.989865519355
+-98.163347096774,25.989865519355
+-98.163347096774,25.963231508065
+-98.199185564516,25.963231508065
+-98.199185564516,25.989865519355
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AR 7</name>
+<description><![CDATA[1 incidencias:
+ 1 ENFRENTAMIENTO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>960000ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-99.166824193548,25.963231508065
+-99.130985725806,25.963231508065
+-99.130985725806,25.936597496774
+-99.166824193548,25.936597496774
+-99.166824193548,25.963231508065
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AU 51</name>
+<description><![CDATA[1 incidencias:
+ 1 ROBO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>960000ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-97.589931612903,25.883329474194
+-97.554093145161,25.883329474194
+-97.554093145161,25.856695462903
+-97.589931612903,25.856695462903
+-97.589931612903,25.883329474194
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>AU 53</name>
+<description><![CDATA[1 incidencias:
+ 1 SITUACION DE RIESGO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>00ffffff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-97.518254677419,25.883329474194
+-97.482416209677,25.883329474194
+-97.482416209677,25.856695462903
+-97.518254677419,25.856695462903
+-97.518254677419,25.883329474194
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>BM 43</name>
+<description><![CDATA[1 incidencias:
+ 1 BLOQUEO]]></description>
+<visibility>1</visibility>
+<Style><LineStyle><width>0.5</width><color>960000ff</color></LineStyle><PolyStyle><color>9600a5ff</color><fill>1</fill></PolyStyle></Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
+-97.876639354839,25.403917270968
+-97.840800887097,25.403917270968
+-97.840800887097,25.377283259677
+-97.876639354839,25.377283259677
+-97.876639354839,25.403917270968
+</coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark>
+
+</Document>
+</kml>
