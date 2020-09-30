@@ -8,7 +8,7 @@
 <name>DETONACIONES</name>
 <description><![CDATA[2020-09-27 21:31:00]]></description>
 <visibility>1</visibility>
-<Style><LineStyle><width>0.5</width><color>96ffffff</color></LineStyle><PolyStyle><color>9600ffff</color><fill>1</fill></PolyStyle></Style>
+<Style><LineStyle><width>0.5</width><color>ffffffff</color></LineStyle><PolyStyle><color>ff00ffff</color><fill>1</fill></PolyStyle></Style>
 <MultiGeometry>
 <Polygon>
 <outerBoundaryIs>
@@ -54,7 +54,7 @@
 <name>ENFRENTAMIENTO</name>
 <description><![CDATA[2020-09-27 21:49:00]]></description>
 <visibility>1</visibility>
-<Style><LineStyle><width>0.5</width><color>96ffffff</color></LineStyle><PolyStyle><color>960000ff</color><fill>1</fill></PolyStyle></Style>
+<Style><LineStyle><width>0.5</width><color>ffffffff</color></LineStyle><PolyStyle><color>ff0000ff</color><fill>1</fill></PolyStyle></Style>
 <MultiGeometry>
 <Polygon>
 <outerBoundaryIs>
@@ -100,7 +100,7 @@
 <name>PONCHALLANTAS</name>
 <description><![CDATA[2020-09-27 22:26:00]]></description>
 <visibility>1</visibility>
-<Style><LineStyle><width>0.5</width><color>96ffffff</color></LineStyle><PolyStyle><color>9600ffff</color><fill>1</fill></PolyStyle></Style>
+<Style><LineStyle><width>0.5</width><color>ffffffff</color></LineStyle><PolyStyle><color>ff00ffff</color><fill>1</fill></PolyStyle></Style>
 <MultiGeometry>
 <Polygon>
 <outerBoundaryIs>
@@ -146,7 +146,7 @@
 <name>INCENDIO DE VEHICULO</name>
 <description><![CDATA[2020-09-27 22:30:00]]></description>
 <visibility>1</visibility>
-<Style><LineStyle><width>0.5</width><color>96ffffff</color></LineStyle><PolyStyle><color>9600a5ff</color><fill>1</fill></PolyStyle></Style>
+<Style><LineStyle><width>0.5</width><color>ffffffff</color></LineStyle><PolyStyle><color>ff00a5ff</color><fill>1</fill></PolyStyle></Style>
 <MultiGeometry>
 <Polygon>
 <outerBoundaryIs>
